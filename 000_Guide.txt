@@ -21,3 +21,6 @@
 21 - ExtendsObject.java
 22 - TypeCasting.java
 23 - AbstractKeyword.java
+24 - InnerClass.java - covers abstract inner class, anonymous inner class and usage of abtract class with anonymous inner class
+25 - InterfaceConcept.java
+26 - InterfaceUsage.java

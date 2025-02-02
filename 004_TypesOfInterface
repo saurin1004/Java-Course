@@ -1,0 +1,7 @@
+Types of interface:
+    - Normal - an interface with 2 or more methods
+    - Functional (or Single Abstract Method  - SAM)
+    - Marker - an interface with NO methods - Useful for serialization and deserialization - which can be understood as load saved game analogy in games
+
+Revision NOTE: all methods in interface are public abstract
+

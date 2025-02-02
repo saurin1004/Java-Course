@@ -1,0 +1,5 @@
+- Structures project
+- Stores files in a single folder
+- For example we can store classes like Clac, AdvClac, and VeryAdvCalc inside a package called tools
+
+Inside 000_Guide.txt check out section 16 for Inheritance part 2. It covers package usage.

@@ -1,0 +1,5 @@
+Polymorphism (many + bheviour) - means behaves differently in different situations
+
+    - Compile time Polymorphism - example: overloading
+    
+    - Run time Polymorphism - example: overriding

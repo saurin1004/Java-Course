@@ -28,3 +28,8 @@
 28 - Annotations.java
 29 - FunctionalInterface.java
 30 - ExceptionHandling.java
+31 - ThrowException.java
+32 - ThrowsKeyword.java
+33 - TakeInput.java
+34 - TryWithResources.java
+35 - ThreadConcept.java

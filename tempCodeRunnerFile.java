@@ -1,2 +1,2 @@
 
-        // obj.setName("Saurin");
+            // System.out.println(nums[6]);

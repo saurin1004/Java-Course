@@ -67,7 +67,7 @@ Welcome to my **Java Course Repository**! This repository contains Java programs
 To run these Java programs:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/java-course.git
+   git clone git clone https://github.com/saurin1004/Java-Course.git
    ```
 2. Navigate to the desired Java file.
 3. Compile and run using:

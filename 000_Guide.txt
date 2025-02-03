@@ -32,4 +32,5 @@
 32 - ThrowsKeyword.java
 33 - TakeInput.java
 34 - TryWithResources.java
-35 - ThreadConcept.java
+35 - ThreadConcept.java - if you are working with threads try to make sure that the data you work is immutable or make method thread-safe (one thread at a time) incase you feel it can cause mutation
+36 - SynchronizationKeyword.java

@@ -46,7 +46,22 @@ Welcome to my **Java Course Repository**! This repository contains Java programs
 27. **Enumeration.java** - Covers enumeration in Java.
 28. **Annotations.java** - Demonstrates the use of annotations.
 29. **FunctionalInterface.java** - Introduction to functional interfaces and lambda expressions.
+
+### Exception Handling
 30. **ExceptionHandling.java** - Covers handling exceptions using `try`, `catch`, `finally`, `throw`, and `throws`.
+31. **ThrowException.java** - Demonstrates how to manually throw exceptions using the `throw` keyword.
+32. **ThrowsKeyword.java** - Covers the `throws` keyword to declare exceptions in method signatures.
+
+### User Input Handling
+33. **TakeInput.java** - Demonstrates how to take user input using `Scanner` and `BufferedReader`.
+
+### Resource Management
+34. **TryWithResources.java** - Shows how to use `try-with-resources` to automatically close resources like files and streams.
+
+### Multithreading and Synchronization
+35. **ThreadConcept.java** - Introduces multithreading concepts. If working with threads, ensure data is immutable or make methods thread-safe (one thread at a time) to prevent data mutation.
+36. **SynchronizationKeyword.java** - Demonstrates how to use the `synchronized` keyword to control access to shared resources in a multithreading environment.
+
 
 ## Getting Started
 To run these Java programs:

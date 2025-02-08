@@ -37,3 +37,4 @@
 37 - CollectionsUsage.java
 38 - MapsUsage.java
 39 - SortingCollections.java
+40 - StreamAPI.java

@@ -62,6 +62,15 @@ Welcome to my **Java Course Repository**! This repository contains Java programs
 35. **ThreadConcept.java** - Introduces multithreading concepts. If working with threads, ensure data is immutable or make methods thread-safe (one thread at a time) to prevent data mutation.
 36. **SynchronizationKeyword.java** - Demonstrates how to use the `synchronized` keyword to control access to shared resources in a multithreading environment.
 
+### Collections Framework
+37. **CollectionsUsage.java** - Introduction to the Java Collections Framework, including `ArrayList`, `LinkedList`, `HashSet`, and `TreeSet`.
+38. **MapsUsage.java** - Demonstrates the usage of `HashMap`, `LinkedHashMap`, and `TreeMap` to store key-value pairs.
+
+### Sorting and Stream API
+39. **SortingCollections.java** - Covers sorting techniques using `Comparable` and `Comparator` interfaces.
+40. **StreamAPI.java** - Introduces Java Stream API for functional-style operations on collections, including filtering, mapping, and reducing.
+
+
 
 ## Getting Started
 To run these Java programs:

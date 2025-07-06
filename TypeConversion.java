@@ -2,6 +2,9 @@
 // So implicility, there might be errors when converting from larger data type to smaller data type in Java
 // This can be achieved explicitly using typecasting
 
+// Conversion is implicit
+// Casting is explicit
+
 class TypeConversion {
     public static void main(String args[])
     {

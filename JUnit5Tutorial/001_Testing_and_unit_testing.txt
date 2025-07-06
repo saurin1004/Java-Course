@@ -1,0 +1,23 @@
+Who performs:
+    - Testing -> done by seperate team of testers / QAs
+    - Unit testing -> done by software developer
+
+SDLC:
+    - Design
+    - Develop
+    - Test
+
+Unit in unit testing;
+    - might refer to a method (MOSTLY), can be a group of methods, can be a single class, can be a group of classes
+    - based on the behaviour and feature developer is trying to develop
+
+Test we write for a unit - it will be useful at the current state, as well as in future also after some changes
+
+Using testing framework (JUnit) to test:
+    - prepare (setup a test env, write testMethods, ...)
+    - provide testing input
+    - run the test
+    - provide expected output
+    - perform assertion (result verification)
+    - report test results (alert dev if test failed or passed)
+
